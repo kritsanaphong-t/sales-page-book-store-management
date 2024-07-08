@@ -99,3 +99,11 @@
 .nav-link:hover {
     color: #c1202d
 }
+
+header {
+    background-color: var(--bs-body-bg);
+}
+
+.text-shadow {
+    text-shadow: #000000 1px 0 2px;
+}
